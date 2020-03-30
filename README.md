@@ -1,2 +1,5 @@
 # dw_road_signs
-CNN for CV using Keras
+
+A small training project used for understanding CNN for CV.
+
+
